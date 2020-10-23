@@ -36,5 +36,3 @@
 
 #### db.collection_name.find({ name : "Rohit" })
     For accessing only rohit name collection in all data
-
-#### tt
