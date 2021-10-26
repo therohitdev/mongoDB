@@ -1,0 +1,23 @@
+{
+  {
+        _id : 1,
+        name : "Rohit",
+        age : 21,
+        enroll : "0208CS171092",
+        college : "ggct"
+    },
+    {
+        _id : 2,
+        name : "Rahul",
+        age : 21,
+        enroll : "0208CS171093",
+        college : "ggct"
+    },
+    {
+       _id : 3,
+        name : "Rohan",
+        age : 23,
+        enroll : "0208CS171094",
+        college : "ggct"        
+    }
+}
